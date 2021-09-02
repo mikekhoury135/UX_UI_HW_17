@@ -38,6 +38,7 @@
     text-align: center;
 }
 .img-radius {
+    width: 600px;
     max-width: 100%;
     height: auto;
     border-radius: 10%;
