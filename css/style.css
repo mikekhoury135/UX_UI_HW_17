@@ -23,3 +23,44 @@
 .nav-link {
     margin: 0 0 0 10px; 
 }
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 1200px;
+}
+.hero-image {
+    display: flex;
+    justify-content: space-around;
+}
+.hero-header {
+    text-align: center;
+}
+.img-radius {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10%;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 1200px;
+    text-align: center;
+}
+.social-links {
+    
+}
+.social-img {
+    margin: 10px 20px 10px 20px;
+    width: 50px;
+    height: auto;
+}
+.disclaimer {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: black;
+    margin: 50px 0 0 0;
+}
